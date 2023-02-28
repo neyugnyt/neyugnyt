@@ -5,7 +5,7 @@
 <img src="">
 </div>
 <br>
-<img src="" height ="80px" width ="100%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lv8FWglM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9xgjrtzgz8mtu3xkod.gif" height ="80px" width ="100%">
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="" height = "220px" align="right">
