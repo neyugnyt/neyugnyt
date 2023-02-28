@@ -2,7 +2,7 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 <br>
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lv8FWglM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9xgjrtzgz8mtu3xkod.gif">
+<img src="../images/background.gif">
 </div>
 <br>
 <img src="" height ="80px" width ="100%">
