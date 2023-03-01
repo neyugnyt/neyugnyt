@@ -62,14 +62,14 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
     <br>
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=neyugnyt&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
+    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=neyugnyt&theme=dark&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
     <br>
     <br>
     <br>
     <br>
     <br>
     <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neyugnyt&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neyugnyt&layout=compact&langs_count=8&border_radius=20px&theme=dark" width ="50%" height ="200px" align ="left"/>
 </div>
 <br>
 <br>
