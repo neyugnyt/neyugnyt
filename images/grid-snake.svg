@@ -10883,8 +10883,8 @@
                 --cb: #000000;
                 --cs: #747976;
                 --ce: #000000;
-                --c1: #fffafa;
-                --c2: #ffffff;
+                --c1: #ffffff;
+                --c2: #b6bdbd;
                 --c3: #ffffff;
                 --c4: #ffffff
             }
