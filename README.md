@@ -27,6 +27,7 @@
 <p>
 <img src="./images/cat.gif" width="420px" align="right">
 <img src="./images/nvstop.gif" width="100px" align="right">
+<img src="./images/copy.gif" width="50px" height="50px" align="right">
 </p>
 </div>
 <div>
@@ -100,7 +101,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <div>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
-<img src="./images/background.gif" width = "100%">
+<img src="./images/the_end.gif" width = "100%">
 </div>
 <hr>
 </div>
