@@ -32,5 +32,8 @@
 <p align="left"><img src="./images/netlogo.png" height ="48px" width ="48px"/>  <img src="./images/csharp.svg"/> <img src="./images/sql.png" height ="48px" width ="48px"/>  <br><br>
 
 <img src="./images/angular.svg" height ="30px" width ="48px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
+
+<br>
+<p align="left">I'm mostly work with <b  style="color: lime"><i>CSS, HTML, Typescript</i></b> and <b><i>Angular</i></b> at the <b>Front-end</b> and <b><i>ASP.NET Framework</i></b> at the <b>Back-end</b> and deploy on <b> Vercel</b></p>
 </p>
 </body>
