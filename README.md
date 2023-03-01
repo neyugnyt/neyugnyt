@@ -27,6 +27,6 @@
 <img src="" width="420px" align="right">
 </div>
 <div>
-<p align="left"><img src="./images/netlogo.svg"/> <img src="./images/csharp.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+<p align="left"><img src="./images/netlogo.svg"/> <img src="./images/csharp2.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
 
 </body>
