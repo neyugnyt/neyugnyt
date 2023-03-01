@@ -68,8 +68,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <br>
-<b>Coooooooooooooooooooooooooooooooooommmmiiiiiinggggggggggggggggggggggg!!!</b>
-<img align="center" src = "./images/catdrift.gif" width = "100%" height="250px">
+<img align="center" src = "./images/rick2.gif" width = "100%" height="250px">
 <div>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
