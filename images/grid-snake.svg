@@ -13,7 +13,7 @@
 
         @keyframes c1 {
             0% {
-
+                fill: var(--c1)
             }
 
             0%,
@@ -155,11 +155,11 @@
         }
 
         @keyframes ce {
-            0.5% {
+            0.7% {
                 fill: var(--c1)
             }
 
-            1%,
+            0.9%,
             to {
                 fill: var(--ce)
             }
@@ -189,7 +189,7 @@
 
         @keyframes ch {
             87.66% {
-                fill: var(--c2)
+                fill: var(--c1)
             }
 
             87.68%,
@@ -232,66 +232,66 @@
         }
 
         @keyframes cl {
-            0% {
+            1.1% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.3%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes cm {
-            0% {
+            1.3% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes cn {
-            0% {
+            1.5% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.7%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes co {
-            0% {
+            1.7% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.9%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes cp {
-            0% {
+            2.1% {
                 fill: var(--c1)
             }
 
-            10%,
+            2.3%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes cq {
-            0% {
+            2.3% {
                 fill: var(--c1)
             }
 
-            10%,
+            2.5%,
             to {
                 fill: var(--ce)
             }
@@ -309,11 +309,11 @@
         }
 
         @keyframes cs {
-            0% {
+            1.3% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.5%,
             to {
                 fill: var(--ce)
             }
@@ -386,11 +386,11 @@
         }
 
         @keyframes cz {
-            0% {
+            1.5% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.7%,
             to {
                 fill: var(--ce)
             }
@@ -463,11 +463,11 @@
         }
 
         @keyframes c16 {
-            0% {
+            1.7% {
                 fill: var(--c1)
             }
 
-            10%,
+            1.9%,
             to {
                 fill: var(--ce)
             }
@@ -542,6 +542,7 @@
 
         @keyframes c1e {
             .91% {
+                fill: var(--c1)
             }
 
             .93%,
@@ -552,6 +553,7 @@
 
         @keyframes c1f {
             82.15% {
+                fill: var(--c1)
 
             }
 
@@ -563,7 +565,7 @@
 
         @keyframes c1g {
             98.16% {
-
+                fill: var(--c1)
             }
 
             98.18%,
@@ -574,7 +576,7 @@
 
         @keyframes c1h {
             81.74% {
-
+                fill: var(--c1)
             }
 
             81.76%,
@@ -585,7 +587,7 @@
 
         @keyframes c1i {
             0% {
-
+                fill: var(--c1)
             }
 
             0%,
@@ -596,7 +598,7 @@
 
         @keyframes c1j {
             98.46% {
-
+                fill: var(--c1)
             }
 
             98.48%,
@@ -606,11 +608,11 @@
         }
 
         @keyframes c1k {
-            0% {
-                fill: var(--c3)
+            2.5% {
+                fill: var(--c1)
             }
 
-            0%,
+            2.7%,
             to {
                 fill: var(--ce)
             }
@@ -680,11 +682,11 @@
         }
 
         @keyframes c1s {
-            0% {
-                fill: var(--c4)
+            2.7% {
+                fill: var(--c2)
             }
 
-            0%,
+            2.9%,
             to {
                 fill: var(--ce)
             }
@@ -755,44 +757,44 @@
         }
 
         @keyframes c20 {
-            0% {
+            2.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.1%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c21 {
-            0% {
+            3.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.3%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c22 {
-            0% {
+            3.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c23 {
-            0% {
+            3.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.7%,
             to {
                 fill: var(--ce)
             }
@@ -817,11 +819,11 @@
         }
 
         @keyframes c26 {
-            0% {
+            3.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.3%,
             to {
                 fill: var(--ce)
             }
@@ -874,11 +876,11 @@
         }
 
         @keyframes c2c {
-            0% {
+            3.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.5%,
             to {
                 fill: var(--ce)
             }
@@ -895,6 +897,7 @@
 
         @keyframes c2e {
             83.48% {
+                fill: var(--c1)
             }
 
             83.5%,
@@ -904,6 +907,7 @@
 
         @keyframes c2f {
             7.33% {
+                fill: var(--c1)
             }
 
             7.35%,
@@ -931,6 +935,7 @@
 
         @keyframes c2i {
             81.03% {
+                fill: var(--c1)
             }
 
             81.05%,
@@ -958,6 +963,7 @@
 
         @keyframes c2l {
             83.58% {
+                fill: var(--c1)
             }
 
             83.6%,
@@ -1021,6 +1027,7 @@
 
         @keyframes c2s {
             83.68% {
+
             }
 
             83.7%,
@@ -1039,6 +1046,7 @@
 
         @keyframes c2u {
             60.23% {
+                fill: var(--c1)
             }
 
             60.25%,
@@ -1065,66 +1073,66 @@
         }
 
         @keyframes c2x {
-            0% {
+            4.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            4.7%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c2y {
-            0% {
-                fill: var(--c2)
+            4.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            4.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c2z {
-            0% {
-                fill: var(--c2)
+            4.1% {
+                 fill: var(--c1)
             }
 
-            0%,
+            4.3%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c30 {
-            0% {
+            3.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            4.1%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c31 {
-            0% {
+            3.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            3.9%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c32 {
-            0% {
-                fill: var(--c3)
+            3.5% {
+                fill: var(--c1)
             }
 
-            0%,
+            3.7%,
             to {
                 fill: var(--ce)
             }
@@ -1132,28 +1140,32 @@
 
         @keyframes c33 {
             80.52% {
+                fill: var(--c1)
             }
 
             80.54%,
             to {
+
             }
         }
 
         @keyframes c34 {
             96.93% {
+                fill: var(--c1)
             }
 
             96.95%,
             to {
+
             }
         }
 
         @keyframes c35 {
-            0% {
-                fill: var(--c2)
+            4.7% {
+                 fill: var(--c1)
             }
 
-            0%,
+            4.9%,
             to {
                 fill: var(--ce)
             }
@@ -1170,6 +1182,7 @@
 
         @keyframes c37 {
             61.15% {
+                fill: var(--c1)
             }
 
             61.17%,
@@ -1179,6 +1192,7 @@
 
         @keyframes c38 {
             46.78% {
+                fill: var(--c1)
             }
 
             46.8%,
@@ -1188,6 +1202,7 @@
 
         @keyframes c39 {
             80.32% {
+                fill: var(--c1)
             }
 
             80.34%,
@@ -1224,11 +1239,11 @@
         }
 
         @keyframes c3d {
-            0% {
-                fill: var(--c2)
+            4.9% {
+                 fill: var(--c1)
             }
 
-            0%,
+            5.1%,
             to {
                 fill: var(--ce)
             }
@@ -1271,66 +1286,66 @@
         }
 
         @keyframes c3i {
-            0% {
-                fill: var(--c2)
+            5.5% {
+                 fill: var(--c1)
             }
 
-            0%,
+            5.7%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c3j {
-            0% {
+            5.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            5.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c3k {
-            0% {
+            5.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            5.3%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c3l {
-            0% {
+            5.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            5.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c3m {
-            0% {
+            5.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            5.7%,
             to {
                  fill: var(--ce)
             }
         }
 
         @keyframes c3n {
-            0% {
+            5.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            5.9%,
             to {
                  fill: var(--ce)
             }
@@ -1427,44 +1442,44 @@
         }
 
         @keyframes c3x {
-            0% {
+            5.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            6.1%,
             to {
                  fill: var(--ce)
             }
         }
 
         @keyframes c3y {
-            0% {
-                fill: var(--c2)
+            6.1% {
+                 fill: var(--c1)
             }
 
-            0%,
+            6.3%,
             to {
                  fill: var(--ce)
             }
         }
 
         @keyframes c3z {
-            0% {
-                fill: var(--c2)
+            6.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            6.5%,
             to {
                  fill: var(--ce)
             }
         }
 
         @keyframes c40 {
-            0% {
+            6.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            6.7%,
             to {
                  fill: var(--ce)
             }
@@ -1472,7 +1487,7 @@
 
         @keyframes c41 {
             68.49% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             68.51%,
@@ -1483,7 +1498,7 @@
 
         @keyframes c42 {
             68.8% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             68.82%,
@@ -1493,11 +1508,11 @@
         }
 
         @keyframes c43 {
-            0% {
+            6.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            6.9%,
             to {
                  fill: var(--ce)
             }
@@ -1505,7 +1520,7 @@
 
         @keyframes c44 {
             57.99% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             58.01%,
@@ -1516,7 +1531,7 @@
 
         @keyframes c45 {
             67.88% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             67.9%,
@@ -1527,7 +1542,7 @@
 
         @keyframes c46 {
             68.19% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             68.21%,
@@ -1548,11 +1563,11 @@
         }
 
         @keyframes c48 {
-            0% {
+            6.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            6.9%,
             to {
                 fill: var(--ce)
             }
@@ -1560,7 +1575,7 @@
 
         @keyframes c49 {
             0% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             0%,
@@ -1570,11 +1585,11 @@
         }
 
         @keyframes c4a {
-            0% {
+            6.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            7.1%,
             to {
                 fill: var(--ce)
             }
@@ -1582,7 +1597,7 @@
 
         @keyframes c4b {
             57.07% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             57.09%,
@@ -1603,11 +1618,11 @@
         }
 
         @keyframes c4d {
-            0% {
+            7.5% {
                 fill: var(--c3)
             }
 
-            0%,
+            7.7%,
             to {
                 fill: var(--ce) 
             }
@@ -1625,11 +1640,11 @@
         }
 
         @keyframes c4f {
-            0% {
+            6.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            7.1%,
             to {
                 fill: var(--ce)
             }
@@ -1680,22 +1695,22 @@
         }
 
         @keyframes c4k {
-            0% {
+            7.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            7.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c4l {
-            0% {
+            7.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            7.3%,
             to {
                 fill: var(--ce)    
             }
@@ -1747,7 +1762,7 @@
 
         @keyframes c4q {
             67.57% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             67.59%,
@@ -1758,7 +1773,7 @@
 
         @keyframes c4r {
             67.47% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             67.49%,
@@ -1780,7 +1795,7 @@
 
         @keyframes c4t {
             69.31% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             69.33%,
@@ -1791,7 +1806,7 @@
 
         @keyframes c4u {
             69.21% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             69.23%,
@@ -1801,55 +1816,55 @@
         }
 
         @keyframes c4v {
-            0% {
+            7.7% {
                 fill: var(--c3)
             }
 
-            0%,
+            7.9%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c4w {
-            0% {
+            7.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            8.1%,
             to {
                 fill: var(--ce) 
             }
         }
 
         @keyframes c4x {
-            0% {
+            8.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            8.3%,
             to {
                 fill: var(--ce) 
             }
         }
 
         @keyframes c4y {
-            0% {
+            8.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            8.5%,
             to {
                 fill: var(--ce) 
             }
         }
 
         @keyframes c4z {
-            0% {
+            8.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            8.7%,
             to {
                 fill: var(--ce)    
             }
@@ -1879,7 +1894,7 @@
 
         @keyframes c52 {
             66.96% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             66.98%,
@@ -1912,7 +1927,7 @@
 
         @keyframes c55 {
             67.27% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             67.29%,
@@ -1933,11 +1948,11 @@
         }
 
         @keyframes c57 {
-            0% {
+            8.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            8.9%,
             to {
                 fill: var(--ce) 
             }
@@ -1945,7 +1960,7 @@
 
         @keyframes c58 {
             79.19% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             79.21%,
@@ -1956,7 +1971,7 @@
 
         @keyframes c59 {
             0% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             0%,
@@ -2010,11 +2025,11 @@
         }
 
         @keyframes c5e {
-            0% {
-                fill: var(--c2)
+            8.9% {
+                 fill: var(--c1)
             }
 
-            0%,
+            9.1%,
             to {
                 fill: var(--ce)
             }
@@ -2032,55 +2047,55 @@
         }
 
         @keyframes c5g {
-            0% {
+            9.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            10.1%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c5h {
-            0% {
-                fill: var(--c2)
+            9.7% {
+                 fill: var(--c1)
             }
 
-            0%,
+            9.9%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c5i {
-            0% {
+            9.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            9.7%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c5j {
-            0% {
+            9.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            9.5%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c5k {
-            0% {
+            9.1% {
                 fill: var(--c3)
             }
 
-            0%,
+            9.3%,
             to {
                 fill: var(--ce)  
             }
@@ -2121,7 +2136,7 @@
 
         @keyframes c5o {
             66.55% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             66.57%,
@@ -2154,7 +2169,7 @@
 
         @keyframes c5r {
             78.69% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             78.71%,
@@ -2186,11 +2201,11 @@
         }
 
         @keyframes c5u {
-            0% {
+            10.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            10.3%,
             to {
                 fill: var(--ce)
             }
@@ -2198,7 +2213,7 @@
 
         @keyframes c5v {
             66.45% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             66.47%,
@@ -2242,7 +2257,7 @@
 
         @keyframes c5z {
             0% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             0%,
@@ -2264,7 +2279,7 @@
 
         @keyframes c61 {
             66.25% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             66.27%,
@@ -2274,11 +2289,11 @@
         }
 
         @keyframes c62 {
-            0% {
-                fill: var(--c2)
+            10.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            10.5%,
             to {
                 fill: var(--ce)    
             }
@@ -2297,7 +2312,7 @@
 
         @keyframes c64 {
             78.38% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             78.4%,
@@ -2319,7 +2334,7 @@
 
         @keyframes c66 {
             70.02% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             70.04%,
@@ -2362,44 +2377,44 @@
         }
 
         @keyframes c6a {
-            0% {
-                fill: var(--c2)
+            10.5% {
+                 fill: var(--c1)
             }
 
-            0%,
+            10.7%,
             to {
                 fill: var(--ce) 
             }
         }
 
         @keyframes c6b {
-            0% {
+            10.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            10.9%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c6c {
-            0% {
+            10.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            11.1%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c6d {
-            0% {
-                fill: var(--c2)
+            11.1% {
+                 fill: var(--c1)
             }
 
-            0%,
+            11.3%,
             to {
                 fill: var(--ce)
             }
@@ -2418,7 +2433,7 @@
 
         @keyframes c6f {
             66.05% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             66.07%,
@@ -2428,11 +2443,11 @@
         }
 
         @keyframes c6g {
-            0% {
+            10.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            10.7%,
             to {
                 fill: var(--ce)    
             }
@@ -2484,7 +2499,7 @@
 
         @keyframes c6l {
             70.33% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             70.35%,
@@ -2494,11 +2509,11 @@
         }
 
         @keyframes c6m {
-            0% {
+            10.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            10.9%,
             to {
                 fill: var(--ce)    
             }
@@ -2528,7 +2543,7 @@
 
         @keyframes c6p {
             70.73% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             70.75%,
@@ -2550,7 +2565,7 @@
 
         @keyframes c6r {
             54.42% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             54.44%,
@@ -2594,7 +2609,7 @@
 
         @keyframes c6v {
             70.94% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             70.96%,
@@ -2605,7 +2620,7 @@
 
         @keyframes c6w {
             64.52% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             64.54%,
@@ -2638,7 +2653,7 @@
 
         @keyframes c6z {
             0% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             0%,
@@ -2648,66 +2663,66 @@
         }
 
         @keyframes c70 {
-            0% {
-                fill: var(--c2)
+            11.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            11.5%,
             to {
                 fill: var(--ce)  
             }
         }
 
         @keyframes c71 {
-            0% {
-                fill: var(--c2)
+            11.5% {
+                 fill: var(--c1)
             }
 
-            0%,
+            11.7%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c72 {
-            0% {
+            11.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            11.9%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c73 {
-            0% {
+            12.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            12.3%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c74 {
-            0% {
-                fill: var(--c2)
+            12.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            12.5%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c75 {
-            0% {
+            12.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            12.7%,
             to {
                 fill: var(--ce)
             }
@@ -2725,11 +2740,11 @@
         }
 
         @keyframes c77 {
-            0% {
+            11.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            11.7%,
             to {
                 fill: var(--ce)
             }
@@ -2747,11 +2762,11 @@
         }
 
         @keyframes c79 {
-            0% {
-                fill: var(--c2)
+            11.9% {
+                 fill: var(--c1)
             }
 
-            0%,
+            12.1%,
             to {
                 fill: var(--ce)
             }
@@ -2759,7 +2774,7 @@
 
         @keyframes c7a {
             64.31% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             64.33%,
@@ -2770,7 +2785,7 @@
 
         @keyframes c7b {
             71.35% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             71.37%,
@@ -2780,11 +2795,11 @@
         }
 
         @keyframes c7c {
-            0% {
+            12.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            12.9%,
             to {
                 fill: var(--ce)    
             }
@@ -2802,11 +2817,11 @@
         }
 
         @keyframes c7e {
-            0% {
+            11.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            11.9%,
             to {
                 fill: var(--ce)    
             }
@@ -2814,7 +2829,7 @@
 
         @keyframes c7f {
             51.57% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             51.59%,
@@ -2824,11 +2839,11 @@
         }
 
         @keyframes c7g {
-            0% {
+            12.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            12.3%,
             to {
                 fill: var(--ce)    
             }
@@ -2847,7 +2862,7 @@
 
         @keyframes c7i {
             71.45% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             71.47%,
@@ -2857,11 +2872,11 @@
         }
 
         @keyframes c7j {
-            0% {
-                fill: var(--c2)
+            12.9% {
+                 fill: var(--c1)
             }
 
-            0%,
+            13.1%,
             to {
                 fill: var(--ce)    
             }
@@ -2879,11 +2894,11 @@
         }
 
         @keyframes c7l {
-            0% {
+            11.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            12.1%,
             to {
                 fill: var(--ce)    
             }
@@ -2891,7 +2906,7 @@
 
         @keyframes c7m {
             73.69% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             73.71%,
@@ -2901,11 +2916,11 @@
         }
 
         @keyframes c7n {
-            0% {
-                fill: var(--c2)
+            12.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            12.5%,
             to {
                 fill: var(--ce)    
             }
@@ -2934,11 +2949,11 @@
         }
 
         @keyframes c7q {
-            0% {
+            13.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            13.3%,
             to {
                 fill: var(--ce)    
             }
@@ -2968,7 +2983,7 @@
 
         @keyframes c7t {
             73.59% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             73.61%,
@@ -3033,66 +3048,66 @@
         }
 
         @keyframes c7z {
-            0% {
-                fill: var(--c2)
+            14.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            14.5%,
             to {
                 fill: var(--ce)
             }
         }
 
         @keyframes c80 {
-            0% {
+            14.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            14.3%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c81 {
-            0% {
+            13.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            14.1%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c82 {
-            0% {
-                fill: var(--c2)
+            13.7% {
+                 fill: var(--c1)
             }
 
-            0%,
+            13.9%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c83 {
-            0% {
-                fill: var(--c2)
+            13.5% {
+                 fill: var(--c1)
             }
 
-            0%,
+            13.7%,
             to {
                 fill: var(--ce)    
             }
         }
 
         @keyframes c84 {
-            0% {
-                fill: var(--c2)
+            13.3% {
+                 fill: var(--c1)
             }
 
-            0%,
+            13.5%,
             to {
                 fill: var(--ce) 
             }
@@ -3121,11 +3136,11 @@
         }
 
         @keyframes c87 {
-            0% {
+            14.5% {
                 fill: var(--c1)
             }
 
-            0%,
+            14.7%,
             to {
                 fill: var(--ce) 
             }
@@ -3144,7 +3159,7 @@
 
         @keyframes c89 {
             71.96% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             71.98%,
@@ -3177,7 +3192,7 @@
 
         @keyframes c8c {
             74.51% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             74.53%,
@@ -3209,11 +3224,11 @@
         }
 
         @keyframes c8f {
-            0% {
-                fill: var(--c2)
+            14.7% {
+                 fill: var(--c1)
             }
 
-            0%,
+            14.9%,
             to {
                 fill: var(--ce) 
             }
@@ -3254,7 +3269,7 @@
 
         @keyframes c8j {
             74.61% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             74.63%,
@@ -3264,66 +3279,66 @@
         }
 
         @keyframes c8k {
-            0% {
+            15.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.5%,
             to {
                fill: var(--ce)   
             }
         }
 
         @keyframes c8l {
-            0% {
+            15.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.3%,
             to {
                 fill: var(--ce)  
             }
         }
 
         @keyframes c8m {
-            0% {
+            14.9% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.1%,
             to {
                 fill: var(--ce) 
             }
         }
 
         @keyframes c8n {
-            0% {
+            15.1% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.3%,
             to {
                 fill: var(--ce)  
             }
         }
 
         @keyframes c8o {
-            0% {
+            15.3% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.5%,
             to {
                 fill: var(--ce)     
             }
         }
 
         @keyframes c8p {
-            0% {
+            15.7% {
                 fill: var(--c1)
             }
 
-            0%,
+            15.9%,
             to {
                 fill: var(--ce)     
             }
@@ -3331,7 +3346,7 @@
 
         @keyframes c8q {
             74.71% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             74.73%,
@@ -3342,7 +3357,7 @@
 
         @keyframes c8r {
             72.98% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             73%,
@@ -3375,7 +3390,7 @@
 
         @keyframes c8u {
             72.67% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             72.69%,
@@ -3441,7 +3456,7 @@
 
         @keyframes c90 {
             72.47% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             72.49%,
@@ -3474,7 +3489,7 @@
 
         @keyframes c93 {
             75.02% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             75.04%,
@@ -3716,7 +3731,7 @@
 
         @keyframes c9p {
             75.42% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             75.44%,
@@ -3815,7 +3830,7 @@
 
         @keyframes c9y {
             76.14% {
-                fill: var(--c2)
+                 fill: var(--c1)
             }
 
             76.16%,
@@ -3925,7 +3940,7 @@
 
         @keyframes ca8 {
             29.04% {
-                fill: var(--c1)
+
             }
 
             29.06%,
@@ -10854,24 +10869,24 @@
 
         :root {
             --cb: #0f6d31;
-            --cs: purple;
-            --ce: #ebedf0;
-            --c0: #0f6d31;
+            --cs: #0b0f0c;
+            --ce: #0b0e0c;
+            --c0: #0b0e0c;
             --c1: #0f6d31;
             --c2: #0f6d31;
             --c3: #0f6d31;
-            --c4: #0f6d31
+            --c4: #aabeb5
         }
 
         @media (prefers-color-scheme:dark) {
             :root {
-                --cb: #0f6d31;
-                --cs: #0b0f0c;
-                --ce: #0b0e0c;
-                --c1: #0f6d31;
-                --c2: #0f6d31;
-                --c3: #0f6d31;
-                --c4: #0f6d31
+                --cb: #061d1f;
+                --cs: #747976;
+                --ce: #000000;
+                --c1: #4f5351;
+                --c2: #747976;
+                --c3: #79837e;
+                --c4: #aabeb5
             }
         }
 
@@ -10882,7 +10897,8 @@
              ;
             stroke-width: 1px;
             stroke: var(--cb);
-            animation: none 9999ms linear infinite
+            animation: 2000ms linear infinite
+
         }
 
         .c.c0,
@@ -11160,7 +11176,7 @@
         }
 
         .c.c1g {
-            fill: var(--c4);
+            fill: var(--c2);
             animation-name: c1g
         }
 
@@ -11175,7 +11191,7 @@
         }
 
         .c.c1j {
-            fill: var(--c4);
+            fill: var(--c2);
             animation-name: c1j
         }
 
@@ -11185,7 +11201,7 @@
         }
 
         .c.c1l {
-            fill: var(--c2);
+            fill: var(--c1);
             animation-name: c1l
         }
 
@@ -11222,7 +11238,7 @@
         }
 
         .c.c1s {
-            fill: var(--c4);
+            fill: var(--c2);
             animation-name: c1s
         }
 
@@ -11289,7 +11305,7 @@
         }
 
         .c.c25 {
-            fill: var(--c2);
+            fill: var(--c1);
             animation-name: c25
         }
 
@@ -11469,7 +11485,7 @@
         }
 
         .c.c34 {
-            fill: var(--c4);
+            fill: var(--c2);
             animation-name: c34
         }
 
@@ -11512,7 +11528,7 @@
         .c.c3c,
         .c.c3d,
         .c.c3e {
-            fill: var(--c2);
+            fill: var(--c1);
             animation-name: c3c
         }
 
@@ -12799,7 +12815,7 @@
 
         .s,
         .u {
-            animation: none 8000ms linear infinite
+            animation: none 9999ms linear infinite
         }
 
         .u,
@@ -13379,11 +13395,6 @@
     <rect class="c ca1" x="818" y="66" width="12" height="12" />
     <rect class="c ca2" x="818" y="82" width="12" height="12" />
     <rect class="c ca3" x="818" y="98" width="12" height="12" />
-    <rect class="c ca4" x="834" y="2" width="12" height="12" />
-    <rect class="c ca5" x="834" y="18" width="12" height="12" />
-    <rect class="c ca6" x="834" y="34" width="12" height="12" />
-    <rect class="c ca7" x="834" y="50" width="12" height="12" />
-    <rect class="c ca8" x="834" y="66" width="12" height="12" />
     <rect class="u u0" height="12" width="579.7" x="0.0" y="144" />
     <rect class="u u1" height="12" width="2.9" x="579.1" y="144" />
     <rect class="u u2" height="12" width="5.2" x="581.4" y="144" />
