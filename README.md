@@ -52,7 +52,7 @@ I used to take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br><br>📱: (+84) 97 122 5101</p>
+<p align="center"><a href="https://www.facebook.com/IlllIIll/" target="_blank"><img src="./images/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=nguyenlamquocty1412@gmail.com" target="_blank"><img src="./images/Gmail.svg"/></a><br><br>📱: (+84) 93 356 2450</p>
 </div>
 <br>
 <div>
