@@ -5,7 +5,7 @@
 <img src="./images/2.gif"  height ="300px" width ="100%">
 </div>
 <br>
-<img src="./images/line.gif" height ="10px" width ="100%">
+<img src="./images/line.gif" height ="1px" width ="100%">
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="./images/grid-snake.svg" height = "220px" align="right">
