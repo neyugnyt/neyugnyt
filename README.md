@@ -71,7 +71,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <img align="center" src = "./images/rick2.gif" width = "100%" height="350px">
 <div>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
-    <img src ="./images/decor.gif" align ="right">
+    <img src ="./images/decor.gif"  width = "100px" height="100px" align ="right">
     <br>
     <img class="img" src ="https://github-readme-stats.vercel.app/api?username=neyugnyt&theme=dark&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
     <br>
