@@ -36,6 +36,9 @@
 <img src="./images/Vercel.svg" /> <img src="./images/copy.gif" width="200px" height="200px" align="right"> <br><br>
 
 <br>
+<br>
+<br>
+<br>
 </p>
 <p align="left">I'm mostly work with <b><i>CSS, HTML, Typescript</i></b> and <b><i>Angular</i></b> at the <b>Front-end</b> and <b><i>ASP.NET Framework, MSSQL Server</i></b> at the <b>Back-end</b> and deploy on <b> Vercel</b>
 </p>
