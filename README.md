@@ -32,7 +32,7 @@
 <p align="left"><img src="./images/netlogo.png" height ="48px" width ="48px"/>  <img src="./images/csharp.svg"/> <img src="./images/sql.png" height ="48px" width ="48px"/>  <br><br>
 
 <img src="./images/angular.svg" height ="30px" width ="48px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
-<img src="./images/vercel.svg"/> <br><br>
+<img src="./images/Vercel.svg"/> <br><br>
 
 <br>
 </p>
