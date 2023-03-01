@@ -24,7 +24,7 @@
 <div>
 <h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
 <p>
-<img src="" width="420px" align="right">
+<img src="./images/cat.gif" width="420px" align="right">
 </div>
 <div>
 <p align="left"><img src="./images/netlogo.svg"/> <img src="./images/csharp2.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
