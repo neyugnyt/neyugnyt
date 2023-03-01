@@ -29,9 +29,9 @@
 </p>
 </div>
 <div>
-<p align="left"><img src="./images/netlogo.png" height ="80px" width ="80px"/> <img src="./images/webapi.png" height ="80px" width ="80px"/>  <img src="./images/csharp.svg" height ="80px" width ="80px/> <img src="./images/sql.png" height ="80px" width ="80px"/>  <br><br>
+<p align="left"><img src="./images/netlogo.png" height ="60px" width ="60px"/> <img src="./images/webapi.png" height ="60px" width ="60px"/>  <img src="./images/csharp.svg" height ="60px" width ="60px/> <img src="./images/sql.png" height ="60px" width ="60px"/>  <br><br>
 
-<img src="./images/angular.svg" height ="80px" width ="80px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
+<img src="./images/angular.svg" height ="60px" width ="60px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
 <img src="./images/Vercel.svg" /> <br><br>
 
 <br>
