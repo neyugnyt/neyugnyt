@@ -67,7 +67,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <br>
-<b>Comingggggggggggggggggggg!!!</b>
+<b>Coooooooooooooooooooooooooooooooooommmmiiiiiinggggggggggggggggggggggg!!!</b>
 <img align="center" src = "./images/catdrift.gif" width = "100%" height="250px">
 <div>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
