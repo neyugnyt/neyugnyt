@@ -9,6 +9,7 @@
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="./images/grid-snake.svg" height = "220px">
+<img src="./images/rick.svg" height = "220px" align="right">
 <li>
 <b>Full-Name:</b> <h4><b>Nguyen Lam Quoc Ty</b></h4> </li>
 <li>
