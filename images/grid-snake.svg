@@ -10871,11 +10871,11 @@
             --cb: #000000;
             --cs: #747976;
             --ce: #000000;
-            --c0: #0b0e0c;
-            --c1: #9faaa4;
-            --c2: #929794;
-            --c3: #9eaca4;
-            --c4: #3d4440
+            --c0: #ffffff;
+            --c1: #ffffff;
+            --c2: #ffffff;
+            --c3: #ffffff;
+            --c4: #ffffff
         }
 
         @media (prefers-color-scheme:dark) {
@@ -10883,10 +10883,10 @@
                 --cb: #000000;
                 --cs: #747976;
                 --ce: #000000;
-                --c1: #9faaa4;
-                --c2: #929794;
-                --c3: #9eaca4;
-                --c4: #3d4440
+                --c1: #fffafa;
+                --c2: #ffffff;
+                --c3: #ffffff;
+                --c4: #ffffff
             }
         }
 
