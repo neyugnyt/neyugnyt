@@ -24,8 +24,8 @@
 <div>
 <h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
 <p>
-<img src="./images/nvstop.gif" width="100px" align="right">
 <img src="./images/cat.gif" width="420px" align="right">
+<img src="./images/nvstop.gif" width="100px" align="right">
 </p>
 </div>
 <div>
