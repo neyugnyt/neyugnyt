@@ -36,5 +36,65 @@
 
 <br>
 </p>
-<p align="left">I'm mostly work with <b><i>CSS, HTML, Typescript</i></b> and <b><i>Angular</i></b> at the <b>Front-end</b> and <b><i>ASP.NET Framework</i></b> at the <b>Back-end</b> and deploy on <b> Vercel</b></p>
+<p align="left">I'm mostly work with <b><i>CSS, HTML, Typescript</i></b> and <b><i>Angular</i></b> at the <b>Front-end</b> and <b><i>ASP.NET Framework, MSSQL Server</i></b> at the <b>Back-end</b> and deploy on <b> Vercel</b>
+</p>
+<br>
+<h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+<p align="center">
+<img align="center" src="./image/work_ex.gif"/>
+<br>
+<br>
+<br>
+I used to take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
+<br>
+<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
+<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
+<br>
+<p align="center">Here are some of my  <br>
+most used social info ヽ(o＾▽＾o)ノ</p>
+<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br><br>📱: (+84) 97 122 5101</p>
+</div>
+<br>
+<div>
+<br>
+<img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
+<div>
+    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
+    <img src ="./image/line2.gif" align ="right">
+    <br>
+    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=neyugnyt&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neyugnyt&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
+<div align="center">
+<img src="./image/the-end.gif" width = "100%">
+</div>
+<hr>
+</div>
+
+</div>
+
+
 </body>
