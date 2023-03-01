@@ -33,7 +33,7 @@
 <p align="left"><img src="./images/netlogo.png" height ="60px" width ="60px"/> <img src="./images/webapi.png" height ="60px" width ="60px"/>  <img src="./images/csharp.svg" height ="60px" width ="60px"/> <img src="./images/sql.png" height ="60px" width ="60px"/>  <br><br>
 
 <img src="./images/angular.svg" height ="60px" width ="60px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
-<img src="./images/Vercel.svg" />                                 <img src="./images/copy.gif" width="100px" height="100px" align="right"> <br><br>
+<img src="./images/Vercel.svg" /> <img src="./images/copy.gif" width="200px" height="200px" align="right"> <br><br>
 
 <br>
 </p>
