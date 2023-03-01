@@ -27,6 +27,6 @@
 <img src="./images/cat.gif" width="420px" align="right">
 </div>
 <div>
-<p align="left"><img src="./images/netlogo.png" height ="30px" width ="30px"/> <img src="./images/angular.svg" height ="30px" width ="30px"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+<p align="left"><img src="./images/netlogo.png" height ="30px" width ="30px"/> <img src="./images/angular.svg" height ="30px" width ="30px"/> <img src="./images/csharp.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
 
 </body>
