@@ -45,7 +45,7 @@
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
 <p align="center">
-<img align="center" src="./images/work_ex.gif"/>
+<img align="center" src="./images/work.gif"/>
 <br>
 <br>
 <br>
