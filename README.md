@@ -48,7 +48,7 @@
 I used to take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>Restaff House of Norway</strong></b> in Internship Program from <i>HUTECH University</i></p>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="./image/contact.gif" align="left" width="373.5px" height="208.5px"/>
+<img src="./images/contact.gif" align="left" width="373.5px" height="208.5px"/>
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
@@ -57,7 +57,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <div>
 <br>
-<img align="center" src = "./image/catdrift.gif" width = "100%" height="350px">
+<img align="center" src = "./images/catdrift.gif" width = "100%" height="350px">
 <div>
     <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
