@@ -16,7 +16,7 @@
 <b>Gender:</b> Male, boy!
 </li>
 <li>
-<b>Hobbies:</b> Tech stuff, clean code, web development, solve algorithm puzzles, documentaries, games, old/new school rap, reading and Cats 
+<b>Hobbies:</b> Coding, web development, solve algorithm puzzles, documentaries, games, old/new school rap, reading and Cats 
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
@@ -42,7 +42,7 @@
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
 <p align="center">
-<img align="center" src="./image/work_ex.gif"/>
+<img align="center" src="./images/work_ex.gif"/>
 <br>
 <br>
 <br>
