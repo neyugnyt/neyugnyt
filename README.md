@@ -10,7 +10,7 @@
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="./images/grid-snake.svg" height = "220px" align="right">
 <li>
-<b>Full-Name:</b>Nguyen Lam Quoc Ty</li>
+<b>Full-Name:</b> <h4><b>Nguyen Lam Quoc Ty</b></h4> </li>
 <li>
 <b>Gender:</b> Male, boy!
 </li>
@@ -27,6 +27,6 @@
 <img src="./images/cat.gif" width="420px" align="right">
 </div>
 <div>
-<p align="left"><img src="./images/netlogo.png" height ="30px" width ="30px"/> <img src="./images/angular.svg" height ="30px" width ="30px"/> <img src="./images/csharp.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+<p align="left"><img src="./images/netlogo.png" height ="48px" width ="48px"/>  <img src="./images/csharp.svg"/> <img src="./images/angular.svg" height ="48px" width ="48px"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
 
 </body>
