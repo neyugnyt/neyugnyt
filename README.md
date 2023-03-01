@@ -27,14 +27,13 @@
 <p>
 <img src="./images/cat.gif" width="420px" align="right">
 <img src="./images/nvstop.gif" width="100px" align="right">
-<img src="./images/copy.gif" width="50px" height="50px" align="right">
 </p>
 </div>
 <div>
 <p align="left"><img src="./images/netlogo.png" height ="60px" width ="60px"/> <img src="./images/webapi.png" height ="60px" width ="60px"/>  <img src="./images/csharp.svg" height ="60px" width ="60px"/> <img src="./images/sql.png" height ="60px" width ="60px"/>  <br><br>
 
 <img src="./images/angular.svg" height ="60px" width ="60px"/> <img src="./images/html.svg"/> <img src="./images/css.svg"/> <br><br>
-<img src="./images/Vercel.svg" /> <br><br>
+<img src="./images/Vercel.svg" />                                 <img src="./images/copy.gif" width="100px" height="100px"> <br><br>
 
 <br>
 </p>
