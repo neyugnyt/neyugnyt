@@ -10883,7 +10883,7 @@
                 --cb: #000000;
                 --cs: #747976;
                 --ce: #000000;
-                --c1: #00bafe;
+                --c1: #06bdff;
                 --c2: #ffffff;
                 --c3: #ffffff;
                 --c4: #ffffff
@@ -13301,4 +13301,10 @@
     <rect class="c c8n" x="706" y="50" width="12" height="12" />
     <rect class="c c8o" x="706" y="66" width="12" height="12" />
     <rect class="c c8p" x="706" y="82" width="12" height="12" />
+    <rect class="c c8r" x="722" y="2" width="12" height="12" />
+    <rect class="c c8s" x="722" y="18" width="12" height="12" />
+    <rect class="c c8t" x="722" y="34" width="12" height="12" />
+    <rect class="c c8u" x="722" y="50" width="12" height="12" />
+    <rect class="c c8v" x="722" y="66" width="12" height="12" />
+    <rect class="c c8w" x="722" y="82" width="12" height="12" />
 </svg>
